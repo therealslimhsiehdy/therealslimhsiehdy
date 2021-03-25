@@ -11,8 +11,6 @@
 😄 Pronouns: she/her/hers
 <br>
 📍 Location: San Francisco, CA
-<br>
-🌱 Learning: React
 
 <!--
 **therealslimhsiehdy/therealslimhsiehdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
