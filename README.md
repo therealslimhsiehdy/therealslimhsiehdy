@@ -15,7 +15,7 @@
 <br>
 📍 Location: San Francisco, CA
 
-[![My Skills](https://skillicons.dev/icons?i=django,docker,git,go,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,docker,git,go,python,postman,vscode)](https://skillicons.dev)
 
 
 <!--
