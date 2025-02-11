@@ -1,19 +1,8 @@
-## Rebecca Hsieh @therealslimhsiehdy
-
-[![Linkedin](https://img.shields.io/badge/therealslimhsiehdy-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/threalslimhsiehdy/)](https://www.linkedin.com/in/therealslimhsiehdy/)
-<br>
-[![Gmail](https://img.shields.io/badge/-rebecca.hsieh07%40gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:rebecca.hsieh07@gmail.com)](mailto:rebecca.hsieh07@gmail.com)
-<br>
-[![Instagram](https://img.shields.io/badge/-therealslimhsiehdy-9cf?style=flat&logo=instagram&link=https://www.instagram.com/therealslimhsiehdy/)](https://www.instagram.com/therealslimhsiehdy/)
-<br>
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/therealslimhsiehdy?style=social">
-
+## @therealslimhsiehdy
 
 👋 Hey there! I'm a (backend) software engineer
 <br>
-😄 Pronouns: she/her/hers
-<br>
-📍 Location: San Francisco, CA
+📍 Location: Bay Area, CA
 
 [![My Skills](https://skillicons.dev/icons?i=django,docker,git,go,python,postman,vscode)](https://skillicons.dev)
 
